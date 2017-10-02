@@ -1,0 +1,2 @@
+module AddOtherShowDetailsHelper
+end
